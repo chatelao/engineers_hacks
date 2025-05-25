@@ -30,6 +30,14 @@ Die moderne Küche hat viele Alternativen für die mühsamen Schritte
 ## Flicken
 
 ### Minimales Werkzeug
+
+||Werkzeug |Grössen |
+|---|---|---|---|---|
+|*Schraubenzieher* |100 |
+|*Zange*  |100 |
+|*Bohrer* |100 |
+|---|---|---|---|---|
+
 - [PB-Stubby](https://www.pbswisstools.com/de/werkzeuge/quality-hand-tools/schraubenzieher/produkt/pb-8453)
 - [Bosch Bit Set](https://www.bosch-diy.com/au/en/p/screwdriver-bit-set-27-pieces-with-ratchet-2763384) 
 - [iFixIt Manta ](https://www.ifixit.com/products/manta-driver-kit-112-bit-driver-kit)
