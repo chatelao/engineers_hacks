@@ -40,7 +40,6 @@ Die moderne Küche hat viele Alternativen für die mühsamen Schritte
 ### Fortgeschrittenes Werkzeug
 
 - [Bosch Bit Set](https://www.bosch-diy.com/au/en/p/screwdriver-bit-set-27-pieces-with-ratchet-2763384) 
-- 
 - [Tür-/Schaltschrankschlüssel](https://www.knipex.de/produkte/schaltschrankschluessel/knipex-twinkey-der-universellste-aller-schaltschrankschluessel/knipex-twinkey-der-universellste-aller-schaltschrankschluessel/001101)
 - Nähmaschine
 
