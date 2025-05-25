@@ -49,8 +49,8 @@ Die moderne Küche hat viele Alternativen für die mühsamen Schritte
 ## Arbeiten am PC
 
 |Werkzeug |Grössen | |
-|---|---|:---:|---|
-|*Chocolatly*  | Einmal eine Liste erstellen, immer wieder installieren | | |
+|---|---|:---:|
+|*Chocolatly*  | Einmal eine Liste erstellen, immer wieder installieren | |
 
 ### Alles in der Cloud
 
