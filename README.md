@@ -27,9 +27,15 @@ Die moderne Küche hat viele Alternativen für die mühsamen Schritte
 |*Basis* |100 |60 |2 |1 |
 |---|---|---|---|---|
 
-## Knifeskills
-
 ## Flicken
+
+### Minimales Werkzeug
+- [PB-Stubby](https://www.pbswisstools.com/de/werkzeuge/quality-hand-tools/schraubenzieher/produkt/pb-8453)
+- [Bosch Bit Set](https://www.bosch-diy.com/au/en/p/screwdriver-bit-set-27-pieces-with-ratchet-2763384) 
+- [iFixIt Manta ](https://www.ifixit.com/products/manta-driver-kit-112-bit-driver-kit)
+- [Tür-/Schaltschrankschlüssel](https://www.knipex.de/produkte/schaltschrankschluessel/knipex-twinkey-der-universellste-aller-schaltschrankschluessel/knipex-twinkey-der-universellste-aller-schaltschrankschluessel/001101)
+
+### Minimales Werkzeug
 
 ## Arbeiten am PC
 
