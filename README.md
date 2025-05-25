@@ -25,7 +25,6 @@ Die moderne Küche hat viele Alternativen für die mühsamen Schritte
 ||Mehl |Wasser |Salz |Hefe|
 |---|---|---|---|---|
 |*Basis* |100 |60 |2 |1 |
-|---|---|---|---|---|
 
 ## Flicken
 
