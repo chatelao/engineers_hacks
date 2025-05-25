@@ -33,7 +33,7 @@ Die moderne Küche hat viele Alternativen für die mühsamen Schritte
 
 ||Werkzeug |Grössen |
 |---|---|---|
-|*Schraubenzieher* | ![image](https://github.com/user-attachments/assets/043ce2cc-d923-4d93-8a71-d93f43498823| width=100) |
+|*Schraubenzieher* | ![image](https://github.com/user-attachments/assets/043ce2cc-d923-4d93-8a71-d93f43498823 | width=100) |
 [PB-Stubby](https://www.pbswisstools.com/de/werkzeuge/quality-hand-tools/schraubenzieher/produkt/pb-8453) |
 |*Zange*  | 100 |
 |*Bohrer* | 100 |
