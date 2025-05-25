@@ -34,7 +34,9 @@ Die moderne Küche hat viele Alternativen für die mühsamen Schritte
 ||Werkzeug |Grössen |
 |---|---|---|---|---|
 |*Schraubenzieher* |100 |
+|---|---|---|---|---|
 |*Zange*  |100 |
+|---|---|---|---|---|
 |*Bohrer* |100 |
 |---|---|---|---|---|
 
