@@ -35,6 +35,8 @@ Die moderne Küche hat viele Alternativen für die mühsamen Schritte
 |*Schraubenzieher (1)*  | [PB-Stubby](https://www.pbswisstools.com/de/werkzeuge/quality-hand-tools/schraubenzieher/produkt/pb-8453) | <img src="https://github.com/user-attachments/assets/043ce2cc-d923-4d93-8a71-d93f43498823" width="200">| Das Stubby ist der kleine Freund im Haushalt: Mit sehr wenig Platz ideal für alles Mögliche. |
 |*Schraubenzieher (2)*  | [iFixIt-Manta ](https://www.ifixit.com/products/manta-driver-kit-112-bit-driver-kit) | <img src="https://github.com/user-attachments/assets/322aac5b-12ef-463e-80ad-805440a7cd7f" width="200"> | Wenn immer wieder eine Schraube auftaucht, die zu klein oder zu exotisch für das Stubby ist, lohnt es sich einmal ein in einem iFixIt zu investieren. Achtung: Damit seid ihr in der Verwandschaft gebucht als "Chefschrauber". |
 |*Schraubenzieher (3)*  | [Bosch Bit Set](https://www.bosch-diy.com/au/en/p/screwdriver-bit-set-27-pieces-with-ratchet-2763384) | <img src="https://github.com/user-attachments/assets/d83b9600-6397-44f5-ba32-e8ae10cfb0e2">
+|*Schraubenzieher (3)*  |  [Victorinox Cyber L](https://www.victorinox.com/en-CH/Products/Swiss-Army-Knives/Medium-Pocket-Knives/Cyber-Tool-L/p/1.7775.T) | ![image](https://github.com/user-attachments/assets/2a284cbf-e45e-48ab-baf9-5ac32e16767a) | Für unterwegs
+
 
 |*Zange*  | 100 |
 |*Bohrer* | 100 |
