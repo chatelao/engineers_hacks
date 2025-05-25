@@ -1,9 +1,7 @@
 
 # Tipps from an engineers life
 
-## Fixing
-
-## Cooking
+## Kochen
 Weil  "Feeding is Caring" stimmt, ist Kochen ein archaischer sozialer Akt. Die Leuchten in den Augen eines Gaste beim Genuss eines Nahrungsmittels das ihm schmeckt ist nur schwer zu übertreffen.
 
 ### Zerkleinern / Schneiden
@@ -31,7 +29,20 @@ Die moderne Küche hat viele Alternativen für die mühsamen Schritte
 
 ## Knifeskills
 
-## Working with IT
+## Flicken
 
-## Parenting
+## Arbeiten am PC
 
+### Alles in der Cloud
+
+## Eltern sein
+
+### Babies
+
+#### Füttern
+
+#### Schlafen
+
+#### Spazieren
+
+### Kleinkinder
