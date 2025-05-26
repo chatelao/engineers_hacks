@@ -20,6 +20,9 @@ Die moderne Küche hat viele Alternativen für die mühsamen Schritte
 - Kochmesser
 - Tourniermesser
 
+#### Messer schleifen
+<tbd:outdoor55>
+
 ### Brote
 
 ||Mehl |Wasser |Salz |Hefe|
