@@ -8,7 +8,9 @@ Weil  "Feeding is Caring" stimmt, ist Kochen ein archaischer sozialer Akt. Die L
 Die erste grosse Hürde zum Kochen ist das Zerkleinern von Nahrungsmitteln. Erfahrene Köche erfreuen sich fantastischer Fährigkeiten im Umfang mit Messern, aber diese sind nicht nötig für den Einstieg.
 Die moderne Küche hat viele Alternativen für die mühsamen Schritte
 
-
+#### Schneller Kochen
+- Bratpfanne statt tiefe Pfanne (mehr Oberfläche)
+- Heisses Wasser statt kaltes Wasser (kein Hitze Verlust)
 
 #### Ohne Messer kochen
 - Rüstmesser
@@ -24,6 +26,7 @@ Die moderne Küche hat viele Alternativen für die mühsamen Schritte
 
 #### Messer schleifen
 <tbd:outdoor55>
+Horl
 
 ### Brote
 
