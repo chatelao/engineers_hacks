@@ -25,8 +25,8 @@ Die moderne Küche hat viele Alternativen für die mühsamen Schritte
 - Tourniermesser
 
 #### Messer schleifen
-<tbd:outdoor55>
-Horl
+- <tbd:outdoor55>
+- Horl
 
 ### Brote
 
