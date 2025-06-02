@@ -28,13 +28,14 @@ Die moderne Küche hat viele Alternativen für die mühsamen Schritte
 - <tbd:outdoor55>
 - Horl
 
-### Brote
+### Brote / Mehlspeisen
 
 ||Mehl |Wasser |Salz |Hefe |Extras |
 |---|---:|---:|---:|---:|---|
 |*Basis* |100 |60 |2 |1 |
 |*Zopf*  |100 |**Milch**|2 |1 |+10 Butter |
 |*Naan*  |100 |**Joghurt** |2 |1 |
+|*Pasta*  |100 |50 od. Ei |2 | - |
 
 ## Flicken
 
