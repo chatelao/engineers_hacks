@@ -31,9 +31,10 @@ Die moderne Küche hat viele Alternativen für die mühsamen Schritte
 ### Brote
 
 ||Mehl |Wasser |Salz |Hefe |Extras |
-|---|---|---|---|---|---|
+|---|---:|---:|---:|---:|---|
 |*Basis* |100 |60 |2 |1 |
 |*Zopf*  |100 |**Milch**|2 |1 |+10 Butter |
+|*Naan*  |100 |**Joghurt** |2 |1 |
 
 ## Flicken
 
