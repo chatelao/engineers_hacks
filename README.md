@@ -32,10 +32,10 @@ Die moderne Küche hat viele Alternativen für die mühsamen Schritte
 
 ||Mehl |Wasser |Salz |Hefe |Extras |
 |---|---:|---:|---:|---:|---|
-|*Basis* |100 |60 |2 |1 |
-|*Zopf*  |100 |**Milch**|2 |1 |+10 Butter |
-|*Naan*  |100 |**Joghurt** |2 |1 |
-|*Pasta*  |100 |50 od. Ei |2 | - |
+|*Basis* |100 |60          |2 |1 |
+|*Zopf*  |100 |**Milch**   |2 |1 |+10 Butter |
+|*Naan*  |100 |**Joghurt** |2 |1 | +EL ÖL |
+|*Pasta*  |100 |50 od. Ei  |2 | - |
 
 ## Flicken
 
